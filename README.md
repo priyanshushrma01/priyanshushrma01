@@ -37,7 +37,7 @@ I'm a Full Stack Developer and B.Tech IT student, passionate about crafting web 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshushrma01&show_icons=true&theme=tokyonight)
 
 ## Let's Connect! 🤝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInProfile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/priyanshu-sharma-a935501b7)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/priyanshushrma01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:priyanshu.sh18@gmail.com)
 
