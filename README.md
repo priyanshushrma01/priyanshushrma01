@@ -49,7 +49,6 @@ I'm a Full Stack Developer and B.Tech IT student passionate about building moder
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshushrma01&theme=tokyonight&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshushrma01&color=blueviolet&style=flat)
 
 </div>
 
