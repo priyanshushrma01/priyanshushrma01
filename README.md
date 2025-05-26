@@ -47,8 +47,6 @@ I'm a Full Stack Developer and B.Tech IT student passionate about building moder
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshushrma01&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshushrma01&theme=tokyonight&hide_border=true)
-
 
 </div>
 
@@ -58,10 +56,3 @@ I'm a Full Stack Developer and B.Tech IT student passionate about building moder
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.sh18@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshushrma01)
 
----
-<div align="center">
-
-
-⭐️ From [priyanshushrma01](https://github.com/priyanshushrma01) | Feel free to star my repositories if you find them helpful!
-
-</div>
