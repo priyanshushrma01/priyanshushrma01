@@ -6,7 +6,7 @@ I'm a Full Stack Developer and B.Tech IT student passionate about building moder
 - 🚀 Working with Next.js, React.js, and TypeScript
 - 💡 Building projects with the MERN stack
 - 👨‍💻 Open to collaborate on web projects
-- 📚 3rd year B.Tech IT student
+- 📚 4th year B.Tech IT student
 - 📫 Reach me at: priyanshu.sh18@gmail.com
 
 ## Tech Stack 🛠️
